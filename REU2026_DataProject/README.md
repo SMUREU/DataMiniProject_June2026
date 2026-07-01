@@ -1,6 +1,6 @@
 # REU2026_DataProject 
 
-**Author:** Charlotte
+**Author:** Charlotte Lin
 
 ## Project Overview
 

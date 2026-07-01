@@ -1,4 +1,8 @@
-# REU2026_DataProject by Charlotte Lin 
+# REU2026_DataProject 
+
+**Author:** Charlotte
+
+## Project Overview
 
 In this project, I explored potential correlations between country-level factors and infant sleep duration to better understand why infant sleep times vary across countries.
 
